@@ -1,0 +1,26 @@
+body{
+  background: lightcoral;
+}
+
+p {
+ font-family:sans-serif;
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color:turquoise;
+}
+
+.heading {
+  font-weight: bold;
+}
+
+#important {
+  color: navyblue
+  font-size: 200%
+}
+
+a{color: dimgray}
