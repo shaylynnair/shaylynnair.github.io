@@ -19,8 +19,9 @@ h2{
 }
 
 #important {
-  color: navyblue
-  font-size: 200%
+  color: navy;
+  font-size: 200%;
 }
 
-a{color: dimgray}
+a{color: dimgray;
+}
