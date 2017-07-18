@@ -1,11 +1,13 @@
 body {
-	
+	background:#000033;
 }
 	
 #contents {
 	margin-left: auto;
 	margin-right: auto;
 	width: 700px;
+	
+	background:#ffad99;
 }
 
 h1 { 
@@ -28,8 +30,8 @@ a:visited {
 
 }
  
- #home, #page2 {
-
+ #home{
+background:#ffad99
  }
  
  h3 {
