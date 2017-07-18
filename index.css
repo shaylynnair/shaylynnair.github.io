@@ -42,10 +42,11 @@ padding: 35px;
  
  img {
 	width: 260px;
+	 float:right;
 }
 
 img.left {
-
+	float:left;
 }
 
 #footer {
