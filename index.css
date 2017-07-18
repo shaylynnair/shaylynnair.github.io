@@ -51,6 +51,7 @@ background:#fffd99;
 
 img.left {
 	float:left;
+	paddding: 35px;
 }
 
 #footer {
