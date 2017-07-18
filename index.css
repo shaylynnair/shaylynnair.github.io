@@ -18,11 +18,12 @@ h1 {
 }
 
 A:link {
-
+	text-decoration:
+		color:#fc0;
 }
 
 A:hover {
-
+	color:#660033;
 }
 
 a:visited {
@@ -45,6 +46,7 @@ background:#fffd99;
  img {
 	width: 260px;
 	 float:right;
+	 padding: 35px;
 }
 
 img.left {
