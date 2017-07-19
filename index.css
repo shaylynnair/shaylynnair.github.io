@@ -57,7 +57,10 @@ img.left {
 }
 
 #footer {
-
+	width: 144px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 20px;
 }
 
 #clearer {
