@@ -2,6 +2,7 @@ body {
 	background:#ff9b71;
 	color: #000066;
 	font-family: 'Late', sans-serif;
+	font-size: medium;
 }
 	
 #contents {
@@ -11,7 +12,8 @@ body {
 	
 	background:#fffd99;
 	padding: 35px;
-	font-family:geneva,ariel,sans-serif;
+	font-family: 'Late', sans-serif;
+	font-size: medium;
 }
 
 h1 { 
