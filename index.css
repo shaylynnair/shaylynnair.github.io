@@ -24,6 +24,7 @@ h1 {
 }
 
 A:link {
+	background-color: rgba(255, 253, 153, .75);
 	text-decoration:
 		color:#fc0;
 }
