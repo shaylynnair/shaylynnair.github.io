@@ -17,14 +17,14 @@ body {
 }
 
 h1 { 
-	background-color: rgba(204, 204, 204, .80);
+	background-color: rgba(204, 204, 204, .85);
 	width:200px;
 	color: #000000;
 
 }
 
 A:link {
-	background-color: rgba(204,204,204, .80);
+	background-color: rgba(204,204,204, .85);
 	text-decoration:
 		color:#fc0;
 }
@@ -43,7 +43,7 @@ a:visited {
  
  #home{
 	padding: 35px;
-background-color: rgba(255, 204, 238, .80);
+background-color: rgba(255, 204, 238, .85);
 	
  }
  
@@ -67,7 +67,7 @@ img.left {
 	margin-left: auto;
 	margin-right: auto;
 	padding-bottom: 20px;
-	background-color: rgb(204, 204, 204);
+	background-color: rgba(204, 204, 204, .85);
 	font-size: small;
 	
 }
@@ -80,7 +80,7 @@ img.left {
 
  .topnav {
   overflow: hidden;
-    background: rgb(204, 204, 204);
+    background: rgba(204, 204, 204, .85);
     border-radius: 10px;
     margin-top: 10px;
 }
