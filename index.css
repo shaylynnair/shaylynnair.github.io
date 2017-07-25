@@ -17,14 +17,14 @@ body {
 }
 
 h1 { 
-	background-color: rgb(204, 204, 204);
+	background-color: rgba(204, 204, 204, .80);
 	width:200px;
 	color: #000000;
 
 }
 
 A:link {
-	background-color: rgba(204,204,204,.85);
+	background-color: rgba(204,204,204, .80);
 	text-decoration:
 		color:#fc0;
 }
@@ -43,7 +43,7 @@ a:visited {
  
  #home{
 	padding: 35px;
-background-color: rgb(255, 204, 238);
+background-color: rgba(255, 204, 238, .80);
 	
  }
  
