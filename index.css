@@ -19,7 +19,7 @@ body {
 h1 { 
 	background-color: rgb(204, 204, 204);
 	width:200px;
-	color: #ffffff;
+	color: #000000;
 
 }
 
@@ -88,7 +88,7 @@ img.left {
 .topnav a {
   float: left;
   display: block;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -96,7 +96,7 @@ img.left {
 }
 
 .topnav a:hover {
-  background-color: #000000;
+  background-color: #ffffff;
   
 }
 
