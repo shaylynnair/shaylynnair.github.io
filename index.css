@@ -1,6 +1,6 @@
 body {
 	background:#cccccc;
-	color: #000066;
+	color: #000000;
 	
 }
 	
@@ -19,7 +19,7 @@ body {
 h1 { 
 	background-color: rgb(204, 204, 204);
 	width:200px;
-	color: #000066;
+	color: #000000;
 
 }
 
@@ -67,7 +67,7 @@ img.left {
 	margin-left: auto;
 	margin-right: auto;
 	padding-bottom: 20px;
-	background-color: rgb(204, 204, 204);
+	background-color: rgb(128, 128, 128);
 }
 
 #clearer {
@@ -78,7 +78,7 @@ img.left {
 
  .topnav {
   overflow: hidden;
-    background: rgb(204, 204, 204);
+    background: rgb(128, 128, 128);
     border-radius: 10px;
     margin-top: 10px;
 }
@@ -94,7 +94,7 @@ img.left {
 }
 
 .topnav a:hover {
-  background-color: #000066;
+  background-color: #000000;
   
 }
 
