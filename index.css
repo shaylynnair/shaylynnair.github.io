@@ -17,14 +17,14 @@ body {
 }
 
 h1 { 
-	background-color: rgb(128, 128, 128);
+	background-color: rgb(204, 204, 204);
 	width:200px;
 	color: #000000;
 
 }
 
 A:link {
-	background-color: rgba(128, 128, 128, .85);
+	background-color: rgba(204,204,204,.85);
 	text-decoration:
 		color:#fc0;
 }
